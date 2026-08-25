@@ -280,6 +280,14 @@
                     },
                     {
                       "key": {
+                        "symbol": "needs_more_attestations"
+                      },
+                      "val": {
+                        "bool": false
+                      }
+                    },
+                    {
+                      "key": {
                         "symbol": "tier"
                       },
                       "val": {
@@ -1438,7 +1446,7 @@
                 {
                   "vec": [
                     {
-                      "symbol": "Silver"
+                      "symbol": "Unrated"
                     }
                   ]
                 }
@@ -1608,7 +1616,7 @@
                 {
                   "vec": [
                     {
-                      "symbol": "Silver"
+                      "symbol": "Unrated"
                     }
                   ]
                 }
